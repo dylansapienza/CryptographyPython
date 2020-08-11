@@ -1,3 +1,3 @@
 # CryptographyPython
 
-A collection of all the ciphers and encryption algorithims I've implemented in python
+A collection of all the ciphers and encryption algorithms I've implemented in python
